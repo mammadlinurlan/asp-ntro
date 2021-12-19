@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{911B7842-EADE-46C0-A54D-CFA3B822FC89}|Default">
+  <MonoDevelop.Ide.ItemProperties.LayoutViewTests FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LayoutViewTests/Views/_ViewStart.cshtml">
+    <Files>
+      <File FileName="LayoutViewTests/Startup.cs" Line="28" Column="14" />
+      <File FileName="LayoutViewTests/Controllers/Home.cs" Line="15" Column="10" />
+      <File FileName="LayoutViewTests/Views/Index.cshtml" Line="1" Column="23" />
+      <File FileName="LayoutViewTests/Views/About.cshtml" Line="1" Column="18" />
+      <File FileName="LayoutViewTests/Views/Contact.cshtml" Line="1" Column="20" />
+      <File FileName="LayoutViewTests/Views/Shared/_Layout.cshtml" Line="13" Column="22" />
+      <File FileName="LayoutViewTests/Views/_ViewStart.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LayoutViewTests" expanded="True">
+            <Node name="LayoutViewTests" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="_ViewStart.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
